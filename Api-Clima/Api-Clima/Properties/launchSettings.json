@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress"
+    },
+    "WeatherApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

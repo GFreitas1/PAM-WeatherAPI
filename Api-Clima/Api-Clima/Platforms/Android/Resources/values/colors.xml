@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Definindo uma cor personalizada -->
+    <color name="primaryColor">#FF5722</color>
+    <color name="secondaryColor">#03A9F4</color>
+    <color name="backgroundColor">#F5F5F5</color>
+</resources>
